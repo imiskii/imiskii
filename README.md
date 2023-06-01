@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **My own website**
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript**
+- 🌱 I’m currently learning about **privacy on the Internet and the means available for security and anonymity on the Internet**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imiskii](https://github.com/imiskii)
-
-- 📝 I regularly write articles on [It is currently baking](It is currently baking)
-
-- 📄 Know about my experiences [...](...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

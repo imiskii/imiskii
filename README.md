@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michal Ľaš</h1>
 <h3 align="center">I am a student interested in software engineering and computer security</h3>
 
-- 🔭 I’m currently working on **My own website**
+- 🔭 I’m currently working on **A tool for managing a personal investment portfolio in Python**
 
 - 🌱 I’m currently learning about **privacy on the Internet and the means available for security and anonymity on the Internet**
 

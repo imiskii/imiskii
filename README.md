@@ -1,16 +1,43 @@
-<h1 align="center">Hi 👋, I'm Michal Ľaš</h1>
+# Hi, I'm Michal Ľaš
 
-I am a university student from Slovakia, currently studying at the Brno University of Technology, Faculty of Information Technology. My interests encompass decentralized networks, blockchains, Web 3.0, computer networks, security, and software engineering.
+*Building robust, secure and privacy-preserving systems with a focus on performance and applied cryptography.*
 
-- 🔭 I’m currently working on **A tool for managing a personal investment portfolio in Python**
+As a master’s student at the Brno University of Technology, Faculty of Information Technology, I focus on the intersection of low-level programming (C/C++), network security, and applied cryptography. Additionally, I am interested in blockchain technologies, decentralization, and Web 3.0.
 
-- 🌱 I’m currently learning about **Rust and Web 3.0**
+### 🔭 Current Focus
+- **Master's Thesis:** Sybil-Resistant Identity Systems in Decentralized Environments.
+- **Security Research:** Zero-Knowledge Proofs (ZKP), Privacy-Preserving Protocols and Digital Identity Management.
+- **Deepening Expertise:** Advanced systems programming in **Rust** and **C++**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/imiskii](https://github.com/imiskii)
+### 🛠️ Tech Stack & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C/C++, Python, Solidity, Bash, Basic Web Development, SQL |
+| **Security** | Cryptography, Network Security |
+| **Blockchain** | Web 3.0, Decentralization, Smart Contracts |
+| **OS & Tools** | Linux (Ubuntu), Git, LaTeX |
 
-- 🌐 My projects are also on my [personal website](https://lasmichal.com/), which serves also as my online resume
+<dev>
+    <img src="./images/icons/icon-c.png">
+    <img src="./images/icons/icon-c++.png">
+    <img src="./images/icons/icon-python.png">
+    <img src="./images/icons/icon-bash.png">
+    <img src="./images/icons/icon-linux.png">
+    <img src="./images/icons/icon-html.png">
+    <img src="./images/icons/icon-css.png">
+    <img src="./images/icons/icon-javascript.png">
+    <img src="./images/icons/icon-typescript.png">
+    <img src="./images/icons/icon-react.png">
+    <img src="./images/icons/icon-sql.png">
+    <img src="./images/icons/icon-solidity.png">
+    <img src="./images/icons/icon-ethereum.png">
+    <img src="./images/icons/icon-docker.png">
+    <img src="./images/icons/icon-github.png">
+    <img src="./images/icons/icon-haskell.png">
+    <img src="./images/icons/icon-github.png">
+</dev>
 
-My technical skills include proficiency in C/C++, Python, and SQL, along with experience in blockchain development. Feel free to connect with me to discuss technology, coding, or potential collaboration opportunities.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+### 💬 Let's Connect
+- 🌐 **[Personal Website & Resume](https://lasmichal.com/)**
+- 💼 **[LinkedIn](www.linkedin.com/in/michal-ľaš-882932278)**
+- 📧 I am always open to new possibilities, collaborations, and discussions around **security software development**, **cryptography**, **computer networking**, **blockchains**, and **decentralization**.

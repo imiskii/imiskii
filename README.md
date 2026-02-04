@@ -17,7 +17,7 @@ As a master’s student at the Brno University of Technology, Faculty of Informa
 | **Blockchain** | Web 3.0, Decentralization, Smart Contracts |
 | **OS & Tools** | Linux (Ubuntu), Git, LaTeX |
 
-<dev>
+<p>
     <img src="./images/icons/icon-c.png">
     <img src="./images/icons/icon-c++.png">
     <img src="./images/icons/icon-python.png">
@@ -35,7 +35,7 @@ As a master’s student at the Brno University of Technology, Faculty of Informa
     <img src="./images/icons/icon-github.png">
     <img src="./images/icons/icon-haskell.png">
     <img src="./images/icons/icon-github.png">
-</dev>
+</p>
 
 ### 💬 Let's Connect
 - 🌐 **[Personal Website & Resume](https://lasmichal.com/)**

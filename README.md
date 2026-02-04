@@ -7,7 +7,7 @@ As a master’s student at the Brno University of Technology, Faculty of Informa
 ### 🔭 Current Focus
 - **Master's Thesis:** Sybil-Resistant Identity Systems in Decentralized Environments.
 - **Security Research:** Zero-Knowledge Proofs (ZKP), Privacy-Preserving Protocols and Digital Identity Management.
-- **Deepening Expertise:** Advanced systems programming in **Rust** and **C++**.
+- **Learning:** Programming in **Rust** and **Zero-Knowledge proof** cryptography, and **Game theory, mechanism design**.
 
 ### 🛠️ Tech Stack & Tools
 | Category | Technologies |

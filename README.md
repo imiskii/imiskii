@@ -13,9 +13,9 @@ As a master’s student at the Brno University of Technology, Faculty of Informa
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | C/C++, Python, Solidity, Bash, Basic Web Development, SQL |
-| **Security** | Cryptography, Network Security |
-| **Blockchain** | Web 3.0, Decentralization, Smart Contracts |
-| **OS & Tools** | Linux (Ubuntu), Git, LaTeX |
+| **Security** |Applied Cryptography, ZKP, Network Security, PQC |
+| **Blockchain** | Web 3.0, Decentralization, Smart Contracts, Decentralized Identity |
+| **OS & Tools** | Linux (Ubuntu), Git, Wireshark, LaTeX |
 
 <p>
     <img src="./images/icons/icon-c.png">
